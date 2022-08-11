@@ -653,7 +653,7 @@
         {
           "indexed": false,
           "internalType": "address",
-          "name": "usdg",
+          "name": "usda",
           "type": "address"
         },
         {
@@ -903,7 +903,7 @@
     },
     {
       "inputs": [],
-      "name": "USDG_PRECISION",
+      "name": "USDA_PRECISION",
       "outputs": [
         {
           "internalType": "uint256",
@@ -1477,7 +1477,7 @@
           "type": "address"
         }
       ],
-      "name": "getUsdgMinPrice",
+      "name": "getUsdaMinPrice",
       "outputs": [
         {
           "internalType": "uint256",
@@ -1608,7 +1608,7 @@
         },
         {
           "internalType": "address",
-          "name": "_usdg",
+          "name": "_usda",
           "type": "address"
         },
         {
@@ -1882,7 +1882,7 @@
     },
     {
       "inputs": [],
-      "name": "usdg",
+      "name": "usda",
       "outputs": [
         {
           "internalType": "address",
